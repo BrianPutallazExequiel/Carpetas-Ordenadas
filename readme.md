@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Brian</h1>
 <h3 align="center">Un apasionado de Desarrollo Web</h3>
 
-<img align="center" src="assets/banner.png" alt="banner" width="100%" height="300px" >
+<img align="center" src="assets/banner.png" alt="banner" width="100%">
 
 <p>
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/BrianPutallazExequiel](https://github.com/BrianPutallazExequiel)
